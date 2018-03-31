@@ -1,0 +1,10 @@
+chien
+chat
+mouton
+cheval
+souris
+hamster
+printemps
+été
+automne
+hiver
